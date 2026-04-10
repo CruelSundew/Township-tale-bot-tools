@@ -1,1 +1,9 @@
-The first thing to do to start
+This small guide should give you a full bot creation using your user credentials
+you should download visual studio code and the latest version of node js
+1. download att-client from https://github.com/mdingena/att-client as a zip file
+2. take that file and extract it then, put it where ever you want to store it (doesn't matter from my knowledge)
+3. follow this guide https://docs.google.com/document/d/1jpNV0MPM6GIXLpWJ6eE6_1cAILrzgCcaf5xaOGKWl2A/edit?usp=sharing
+info with guide: 
+  -make sure to get your server id from the att website url when selected to a specific server
+  -you may need to generate a hash for your password, hash generator website: https://sha512.online/
+you should be setup now.
